@@ -10,9 +10,11 @@ Structure of the project:
 
 1) Download the files, including the *bertconfig* and *amazon-cell-phones-reviews* directories.
 
-2) Open the notebook.
+2) Open the notebook with a Python environment. It is recommended to open it using Kaggle notebooks, as Conda is installed by defult and does not require any further installation. Kaggle notbooks was the cloud platform used for this development.
 
-3) Run the cells sequentially, preferably using an accelerator, such as a GPU.
+3) Check the installation of the packages listed in the first cell.
+
+4) Run the cells sequentially, preferably using an accelerator, such as a GPU.
 
 
 Project developed for the NLP course of Intelligent Systems (Universidad Politécnica de Madrid)
