@@ -17,9 +17,11 @@ Structure of the project:
 4) Run the cells sequentially, preferably using an accelerator, such as a GPU.
 
 
-## How to run the code
+## Link to Kaggle project
 
 This project was created using Kaggle notebooks: [BERT Amazon's reviews prediction](https://www.kaggle.com/paurodrguezinserte/reviews-prediction)
+
+
 
 
 *Project developed for the NLP course of Intelligent Systems (Universidad Politécnica de Madrid)*
